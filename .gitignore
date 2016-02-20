@@ -2,3 +2,5 @@
 *.sln
 *.userprefs
 Library
+build
+Temp
